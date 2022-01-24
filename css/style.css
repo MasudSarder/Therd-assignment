@@ -1,0 +1,39 @@
+/* Google Fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* body styles */
+*{
+    padding: 0;
+    margin: 0;
+}
+/* card styles  */
+.cardbutton{
+    background-color:  #f496d244;
+    width: 200px;
+}
+.bluecardbutton{
+    background-color:  #faf0f6;
+    width: 200px;
+}
+.bluecard{
+    border-radius: 20px;
+}
+
+/* hot buttom  */
+.hot{
+    background-color: red;
+    position: relative;
+    width: 45px;
+    left: 194px;
+    top: 10px;
+    border-radius: 10px;
+}
+
+
+/* footer styles */
+footer{
+    height: 200px;
+}
